@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=btn1 Pin=SW1-2
+Added Pin To Net: NetName=btn1 Pin=U1-20
+Added Net: Name=btn1
+Added Pin To Net: NetName=btn2 Pin=SW2-2
+Added Pin To Net: NetName=btn2 Pin=U1-19
+Added Net: Name=btn2
+Added Member To Class: ClassName=esp32_master Member=Component SW2 SW
+Added Room: Name=esp32_master

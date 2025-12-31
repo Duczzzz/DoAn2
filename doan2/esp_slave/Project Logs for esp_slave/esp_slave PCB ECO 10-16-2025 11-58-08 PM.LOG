@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=5v Pin=Q1-3
+Added Component: Designator=lm7805(QTO-220)
+Add component (AddParameter): Name = "Value"; Value = "LM7805"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=lm7805-1
+Added Pin To Net: NetName=GND Pin=lm7805-2
+Added Pin To Net: NetName=5v Pin=lm7805-3
+Added Member To Class: ClassName=esp_slave Member=Component lm7805
+Added Room: Name=esp_slave

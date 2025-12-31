@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetDS1307_1 Pin=DS1307-1
+Removed Pin From Net: NetName=SCL Pin=DS1307-3
+Removed Pin From Net: NetName=SDA Pin=DS1307-4
+Removed Member From Class: ClassName=esp32_master Member=DS1307
+Added Component: Designator=J?(JST_B4B-EH-A)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-EH-A/JST/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B4B-EH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-EH-A/JST/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDS1307_1 Pin=J?-1
+Added Pin To Net: NetName=SCL Pin=J?-3
+Added Pin To Net: NetName=SDA Pin=J?-4
+Change Net Name : Old Net Name=NetDS1307_1 New Net Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-1
+Added Net: Name=NetJ1_2
+Added Member To Class: ClassName=esp32_master Member=Component J? B4B-EH-A

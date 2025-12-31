@@ -1,0 +1,6 @@
+Change Component Comment: Designator=SW2 Old Comment=off New Comment=SW
+Change Component Comment: Designator=SW1 Old Comment=on New Comment=SW
+Change Pin Designator/Name:  Old Designator=U1-19 Old Name=D34 New Designator =D32 New Name=21
+Change Pin Designator/Name:  Old Designator=U1-20 Old Name=D35 New Designator =D33 New Name=22
+Change Pin Designator/Name:  Old Designator=U1-21 Old Name=D32 New Designator =D35 New Name=20
+Change Pin Designator/Name:  Old Designator=U1-22 Old Name=D33 New Designator =D34 New Name=19

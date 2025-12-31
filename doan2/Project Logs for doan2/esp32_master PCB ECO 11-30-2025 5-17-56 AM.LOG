@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=btn2 Pin=U1-19
+Removed Pin From Net: NetName=btn1 Pin=U1-20
+Change Component Comment : Designator=SW2 Old Comment=SW New Comment=off
+Change Component Comment : Designator=SW1 Old Comment=SW New Comment=on
+Added Pin To Net: NetName=btn1 Pin=U1-21
+Added Pin To Net: NetName=btn2 Pin=U1-22

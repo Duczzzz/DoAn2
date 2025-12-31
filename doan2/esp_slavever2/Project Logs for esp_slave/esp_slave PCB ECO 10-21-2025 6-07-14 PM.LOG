@@ -1,0 +1,12 @@
+Change Component Description : Designator=J1 Old Description=Header Friction Lock MTA-100 7 250 VAC Polyester Tin Copper Alloy Tin New Description=Header Friction Lock MTA-100 7 250 VAC Polyester Tin Copper Alloy Tin | TE Connectivity 640456-7
+Added Component: Designator=Q3(TO92254P470H750-3)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2N2222A/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-92 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N2222A/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetD1_1 Pin=Q3-3
+Added Member To Class: ClassName=esp_slave Member=Component Q3 2N2222A
+Added Room: Name=esp_slave

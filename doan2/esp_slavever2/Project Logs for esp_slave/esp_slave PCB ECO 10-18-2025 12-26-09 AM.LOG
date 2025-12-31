@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=12v Pin=C4-1
+Removed Pin From Net: NetName=am Pin=C4-2
+Removed Pin From Net: NetName=am Pin=dongco-1
+Removed Pin From Net: NetName=12v Pin=dongco-2
+Removed Pin From Net: NetName=am Pin=RL1-1
+Change Component Description : Designator=J1 Old Description=Header Friction Lock MTA-100 7 250 VAC Polyester Tin Copper Alloy Tin New Description=Header Friction Lock MTA-100 7 250 VAC Polyester Tin Copper Alloy Tin | TE Connectivity 640456-7
+Added Pin To Net: NetName=am Pin=C4-1
+Added Pin To Net: NetName=am Pin=dongco-2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=dongco-1
+Added Pin To Net: NetName=NetC4_2 Pin=RL1-1
+Added Net: Name=NetC4_2
+Added Member To Class: ClassName=esp_slave Member=Component C1 100uF/35V
+Added Member To Class: ClassName=esp_slave Member=Component C2 100uF/35V
+Added Member To Class: ClassName=esp_slave Member=Component C3 10uF
+Added Member To Class: ClassName=esp_slave Member=Component C4 103
+Added Member To Class: ClassName=esp_slave Member=Component C5 100uF/35V
+Added Member To Class: ClassName=esp_slave Member=Component C6 100uF/35V
+Added Member To Class: ClassName=esp_slave Member=Component C7 10uF
+Added Member To Class: ClassName=esp_slave Member=Component D1 1N4007
+Added Member To Class: ClassName=esp_slave Member=Component dongco Header 2_1
+Added Member To Class: ClassName=esp_slave Member=Component J1 640456-7
+Added Member To Class: ClassName=esp_slave Member=Component JP1 Header 2_1
+Added Member To Class: ClassName=esp_slave Member=Component LED1 LED
+Added Member To Class: ClassName=esp_slave Member=Component LED2 LED
+Added Member To Class: ClassName=esp_slave Member=Component lm7805
+Added Member To Class: ClassName=esp_slave Member=Component lm7812 LM7812CT
+Added Member To Class: ClassName=esp_slave Member=Component nguondongco Header 2_1
+Added Member To Class: ClassName=esp_slave Member=Component Q2 PC817-B
+Added Member To Class: ClassName=esp_slave Member=Component Q3 2N2222A
+Added Member To Class: ClassName=esp_slave Member=Component R1 Res1
+Added Member To Class: ClassName=esp_slave Member=Component R2 Res1
+Added Member To Class: ClassName=esp_slave Member=Component R3 Res1
+Added Member To Class: ClassName=esp_slave Member=Component R4 Res1
+Added Member To Class: ClassName=esp_slave Member=Component RL1 Relay 10A/12V
+Added Member To Class: ClassName=esp_slave Member=Component U1 ESP32-DEVKIT-V1
+Added Room: Name=esp_slave

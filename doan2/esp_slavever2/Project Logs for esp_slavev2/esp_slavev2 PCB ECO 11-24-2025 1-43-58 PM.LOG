@@ -1,0 +1,5 @@
+Change Component Description : Designator=J1 Old Description=Header Friction Lock MTA-100 7 250 VAC Polyester Tin Copper Alloy Tin New Description=Header Friction Lock MTA-100 7 250 VAC Polyester Tin Copper Alloy Tin | TE Connectivity 640456-7
+Added Pin To Net: NetName=AUX Pin=J1-3
+Added Pin To Net: NetName=AUX Pin=U1-3
+Added Net: Name=AUX
+Added Room: Name=esp_slavev2

@@ -1,0 +1,12 @@
+Change Component Description : Designator=J1 Old Description=Header Friction Lock MTA-100 7 250 VAC Polyester Tin Copper Alloy Tin New Description=Header Friction Lock MTA-100 7 250 VAC Polyester Tin Copper Alloy Tin | TE Connectivity 640456-7
+Added Component: Designator=R6(R1/4W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=am Pin=R6-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R6-2
+Added Member To Class: ClassName=esp_slavev2 Member=Component R6 Res1
+Added Room: Name=esp_slavev2

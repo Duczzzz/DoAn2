@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=GND Pin=ds1307-1
+Removed Pin From Net: NetName=SDA Pin=ds1307-3
+Removed Pin From Net: NetName=SCL Pin=ds1307-4
+Removed Pin From Net: NetName=GND Pin=J1-6
+Removed Pin From Net: NetName=GND Pin=J1-7
+Removed Member From Class: ClassName=esp32_master Member=ds1307
+Change Component Footprint: Designator=J1 Old Footprint=TE_640456-7 New Footprint=JP4x2
+Change Component Comment : Designator=J1 Old Comment=640456-7 New Comment=Connector 4x2
+Change component parameters: Designator = "J1" ("J1"); Footprint = "TE_640456-7"; UniqueID = "\UJMJEAQS" ("\UJMJEAQS")
+Change component parameters (AddParameter): Name = "Value"; Value = "Connector 4x2"; VariantName = "[No Variations]"
+Added Component: Designator=HD1(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(JP7)
+Add component (AddParameter): Name = "Value"; Value = "JP7"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(JP7)
+Add component (AddParameter): Name = "Value"; Value = "JP7"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R1/4W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW2)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SW2)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=HD1-1
+Added Pin To Net: NetName=SDA Pin=J1-3
+Added Pin To Net: NetName=SCL Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=SDA Pin=J1-7
+Added Pin To Net: NetName=SCL Pin=J1-8
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP1-6
+Added Pin To Net: NetName=GND Pin=JP1-7
+Added Pin To Net: NetName=GND Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=JP2-6
+Added Pin To Net: NetName=GND Pin=JP2-7
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=3v3 Pin=J1-2
+Added Pin To Net: NetName=3v3 Pin=J1-6
+Added Pin To Net: NetName=3v3 Pin=JP1-2
+Added Pin To Net: NetName=3v3 Pin=JP2-2
+Added Pin To Net: NetName=3v3 Pin=U1-1
+Added Net: Name=3v3
+Added Pin To Net: NetName=NetHD1_2 Pin=HD1-2
+Added Pin To Net: NetName=NetHD1_2 Pin=U1-30
+Added Net: Name=NetHD1_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=SW1-1
+Added Pin To Net: NetName=NetR1_1 Pin=SW2-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetSW1_2 Pin=SW1-2
+Added Pin To Net: NetName=NetSW1_2 Pin=U1-5
+Added Net: Name=NetSW1_2
+Added Pin To Net: NetName=NetSW2_2 Pin=SW2-2
+Added Pin To Net: NetName=NetSW2_2 Pin=U1-3
+Added Net: Name=NetSW2_2
+Added Pin To Net: NetName=RX2 Pin=JP1-4
+Added Pin To Net: NetName=RX2 Pin=JP2-4
+Added Pin To Net: NetName=RX2 Pin=U1-6
+Added Net: Name=RX2
+Added Pin To Net: NetName=TX2 Pin=JP1-5
+Added Pin To Net: NetName=TX2 Pin=JP2-5
+Added Pin To Net: NetName=TX2 Pin=U1-7
+Added Net: Name=TX2
+Added Member To Class: ClassName=esp32_master Member=Component HD1 Header 2
+Added Member To Class: ClassName=esp32_master Member=Component JP1 JP7 PIN
+Added Member To Class: ClassName=esp32_master Member=Component JP2 JP7 PIN
+Added Member To Class: ClassName=esp32_master Member=Component R1 Res1
+Added Member To Class: ClassName=esp32_master Member=Component SW1 SW
+Added Member To Class: ClassName=esp32_master Member=Component SW2 SW
+Added Room: Name=esp32_master

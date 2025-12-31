@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=5v Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=5v Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=5v Pin=LED1-1
+Removed Pin From Net: NetName=GND Pin=lm7805-2
+Removed Pin From Net: NetName=5v Pin=lm7805-3
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Member From Class: ClassName=esp_slave Member=C1
+Removed Member From Class: ClassName=esp_slave Member=C2
+Removed Member From Class: ClassName=esp_slave Member=C3
+Removed Member From Class: ClassName=esp_slave Member=LED1
+Removed Member From Class: ClassName=esp_slave Member=lm7805
+Removed Member From Class: ClassName=esp_slave Member=R1
+Change Component Description : Designator=J1 Old Description=Header Friction Lock MTA-100 7 250 VAC Polyester Tin Copper Alloy Tin New Description=Header Friction Lock MTA-100 7 250 VAC Polyester Tin Copper Alloy Tin | TE Connectivity 640456-7
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R1/4W"; UniqueID = "\MDSNHTWR" ("\MDSNHTWR")
+Change component parameters (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3k3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5v Pin=JP1-2
+Change Class Name : Old Net Name=esp_slave New Net Name=esp_slavev2
+Added Room: Name=esp_slavev2

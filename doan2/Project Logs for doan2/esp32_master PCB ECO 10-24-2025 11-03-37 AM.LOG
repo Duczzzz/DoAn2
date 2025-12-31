@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SCL Pin=DS1307-3
+Removed Pin From Net: NetName=SDA Pin=DS1307-4
+Change Component Designator: OldDesignator=DS1307 NewDesignator=J?
+Change Component Description : Designator=J1 Old Description=Header Friction Lock MTA-100 7 250 VAC Polyester Tin Copper Alloy Tin New Description=Header Friction Lock MTA-100 7 250 VAC Polyester Tin Copper Alloy Tin | TE Connectivity 640456-7
+Added Pin To Net: NetName=SDA Pin=J?-3
+Added Pin To Net: NetName=SCL Pin=J?-4
